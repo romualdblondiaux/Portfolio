@@ -1,0 +1,34 @@
+[
+{"Comp":"web","name":"HTML 5"},
+{"Comp":"web","name":"CSS 3"},
+{"Comp":"web","name":"XML"},
+{"Comp":"web","name":"SASS"},
+{"Comp":"web","name":"SQL"},
+{"Comp":"web","name":"Javascript",
+    "children":[
+        {"name":"AJAX"},
+        {"name":"JQuery"},
+        {"name":"VueJS"},
+        {"name":"React"} 
+    ]}, 
+{"Comp":"web2","name":"PHP 7",
+    "children":[
+        {"name":"PHP orienté Object – ( Design Pattern MVC )"},
+        {"name":"Symfony 4",
+            "childrens":[
+                {"name":"API REST (API Platform)"}
+            ]}
+    ]}, 
+{"Comp":"web2","name":"CMS",
+    "children":[
+        {"name":"Wordpress / WooCommerce"}, 
+        {"name":"Joomla"}, 
+        {"name":"Drupal"}, 
+        {"name":"Prestashop"}
+    ]}, 
+{"Comp":"web2","name":"Bootstrap"}, 
+{"Comp":"web2","name":"GIT"}, 
+{"Comp":"web2","name":"Webpack"}, 
+{"Comp":"Design","name":"Photoshop"}, 
+{"Comp":"Design","name":"Figma"}
+]
